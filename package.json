@@ -1,0 +1,25 @@
+{
+  "name": "svg-path-shapes",
+  "version": "0.0.0",
+  "description": "Turns an SVG path into an array of its shapes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/michaelrhodes/svg-path-shapes"
+  },
+  "keywords": [
+    "svg",
+    "path",
+    "shape",
+    "split"
+  ],
+  "author": "Michael Rhodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelrhodes/svg-path-shapes/issues"
+  },
+  "homepage": "https://github.com/michaelrhodes/svg-path-shapes"
+}
