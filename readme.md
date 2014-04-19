@@ -4,6 +4,8 @@
 
 [![Browser support](https://ci.testling.com/michaelrhodes/svg-path-shapes.png)](https://ci.testling.com/michaelrhodes/svg-path-shapes)
 
+<small>Older browsers might require a polyfill for [String.prototype.trim](http://kangax.github.io/es5-compat-table/#String.prototype.trim).</small>
+
 ## Install
 ```sh
 $ npm install svg-path-shapes
